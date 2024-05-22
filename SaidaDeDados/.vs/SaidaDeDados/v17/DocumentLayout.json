@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAIKY\\Documents\\csharpdevelopment\\SaidaDeDados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1047715A-8D5A-4B7C-B2F0-7050552B0996}|SaidaDeDados\\SaidaDeDados.csproj|c:\\users\\kaiky\\documents\\csharpdevelopment\\saidadedados\\saidadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1047715A-8D5A-4B7C-B2F0-7050552B0996}|SaidaDeDados\\SaidaDeDados.csproj|solutionrelative:saidadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAIKY\\Documents\\csharpdevelopment\\SaidaDeDados\\SaidaDeDados\\Program.cs",
+              "RelativeDocumentMoniker": "SaidaDeDados\\Program.cs",
+              "ToolTip": "C:\\Users\\KAIKY\\Documents\\csharpdevelopment\\SaidaDeDados\\SaidaDeDados\\Program.cs",
+              "RelativeToolTip": "SaidaDeDados\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:16:42.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
