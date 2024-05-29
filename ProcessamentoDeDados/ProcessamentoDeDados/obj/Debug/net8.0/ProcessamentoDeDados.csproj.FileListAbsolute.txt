@@ -1,0 +1,15 @@
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.exe
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.deps.json
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.runtimeconfig.json
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.dll
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.pdb
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.AssemblyInfoInputs.cache
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.AssemblyInfo.cs
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.sourcelink.json
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.dll
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\refint\ProcessamentoDeDados.dll
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.pdb
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.genruntimeconfig.cache
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ref\ProcessamentoDeDados.dll
