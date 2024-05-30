@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\EntradaDeDados",
+    "\\EntradaDeDados\\EntradaDeDados",
+    "\\PrimeiroProjeto\\PrimeiroProjeto",
     "\\ProcessamentoDeDados\\ProcessamentoDeDados"
   ],
+  "SelectedNode": "\\EntradaDeDados\\EntradaDeDados.sln",
   "PreviewInSolutionExplorer": false
 }
