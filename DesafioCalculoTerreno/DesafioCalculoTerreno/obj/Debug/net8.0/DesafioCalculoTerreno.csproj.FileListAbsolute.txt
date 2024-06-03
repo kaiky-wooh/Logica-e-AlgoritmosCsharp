@@ -1,0 +1,15 @@
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\DesafioCalculoTerreno\DesafioCalculoTerreno\bin\Debug\net8.0\DesafioCalculoTerreno.exe
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\DesafioCalculoTerreno\DesafioCalculoTerreno\bin\Debug\net8.0\DesafioCalculoTerreno.deps.json
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\DesafioCalculoTerreno\DesafioCalculoTerreno\bin\Debug\net8.0\DesafioCalculoTerreno.runtimeconfig.json
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\DesafioCalculoTerreno\DesafioCalculoTerreno\bin\Debug\net8.0\DesafioCalculoTerreno.dll
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\DesafioCalculoTerreno\DesafioCalculoTerreno\bin\Debug\net8.0\DesafioCalculoTerreno.pdb
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\DesafioCalculoTerreno\DesafioCalculoTerreno\obj\Debug\net8.0\DesafioCalculoTerreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\DesafioCalculoTerreno\DesafioCalculoTerreno\obj\Debug\net8.0\DesafioCalculoTerreno.AssemblyInfoInputs.cache
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\DesafioCalculoTerreno\DesafioCalculoTerreno\obj\Debug\net8.0\DesafioCalculoTerreno.AssemblyInfo.cs
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\DesafioCalculoTerreno\DesafioCalculoTerreno\obj\Debug\net8.0\DesafioCalculoTerreno.csproj.CoreCompileInputs.cache
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\DesafioCalculoTerreno\DesafioCalculoTerreno\obj\Debug\net8.0\DesafioCalculoTerreno.sourcelink.json
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\DesafioCalculoTerreno\DesafioCalculoTerreno\obj\Debug\net8.0\DesafioCalculoTerreno.dll
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\DesafioCalculoTerreno\DesafioCalculoTerreno\obj\Debug\net8.0\refint\DesafioCalculoTerreno.dll
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\DesafioCalculoTerreno\DesafioCalculoTerreno\obj\Debug\net8.0\DesafioCalculoTerreno.pdb
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\DesafioCalculoTerreno\DesafioCalculoTerreno\obj\Debug\net8.0\DesafioCalculoTerreno.genruntimeconfig.cache
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\DesafioCalculoTerreno\DesafioCalculoTerreno\obj\Debug\net8.0\ref\DesafioCalculoTerreno.dll

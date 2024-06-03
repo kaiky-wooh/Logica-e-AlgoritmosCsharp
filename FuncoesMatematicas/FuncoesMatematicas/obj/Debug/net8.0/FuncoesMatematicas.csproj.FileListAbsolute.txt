@@ -1,0 +1,15 @@
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\net8.0\FuncoesMatematicas.exe
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\net8.0\FuncoesMatematicas.deps.json
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\net8.0\FuncoesMatematicas.runtimeconfig.json
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\net8.0\FuncoesMatematicas.dll
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\net8.0\FuncoesMatematicas.pdb
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net8.0\FuncoesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net8.0\FuncoesMatematicas.AssemblyInfoInputs.cache
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net8.0\FuncoesMatematicas.AssemblyInfo.cs
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net8.0\FuncoesMatematicas.csproj.CoreCompileInputs.cache
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net8.0\FuncoesMatematicas.sourcelink.json
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net8.0\FuncoesMatematicas.dll
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net8.0\refint\FuncoesMatematicas.dll
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net8.0\FuncoesMatematicas.pdb
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net8.0\FuncoesMatematicas.genruntimeconfig.cache
+C:\Users\KAIKY\Desktop\Logica-e-AlgoritmosCsharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net8.0\ref\FuncoesMatematicas.dll

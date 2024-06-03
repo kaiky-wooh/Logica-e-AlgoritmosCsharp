@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioEntradaDeDados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+436d5407b4c429d49d06d81504983912d54935c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20990f55693984308d78dba6ac21160d400f7e42")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioEntradaDeDados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioEntradaDeDados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
